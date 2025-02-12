@@ -9,7 +9,7 @@ import jakarta.persistence.OneToMany;
 import jakarta.persistence.Table;
 
 @SuppressWarnings("serial")
-
+// comentario
 @Entity
 @Table(name = "clientes")
 public class Cliente extends PersonaFisica {
